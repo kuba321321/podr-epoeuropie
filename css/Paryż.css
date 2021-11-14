@@ -1,0 +1,21 @@
+body {
+    font-family: 'Bree Serif';
+    font-size: 25px;
+}
+
+.opis {
+    color: white;
+    background-color: black;
+    height: 800px;
+    width: 600px;
+    text-align: center;
+}
+
+.zabydki {
+    color: red;
+    background-color: black;
+    height: 800px;
+    width: 600px;
+    text-align: center;
+    cursor: wait;
+}
