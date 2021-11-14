@@ -1,0 +1,41 @@
+body {
+    background-color: gray;
+    font-family: 'Bree Serif';
+    justify-content: center;
+}
+
+.punkty {
+    text-align: center;
+}
+
+.headline {
+    text-align: center;
+}
+
+.opis {
+    font-size: 30px;
+    text-align: center;
+}
+
+button {
+    font-size: 15px;
+    background-color: white;
+    text-align: center;
+    border: 4px solid lightblue;
+    border-radius: 40px;
+    cursor: cell;
+}
+
+.btn {
+    margin-left: 48%;
+    margin-top: 2%;
+}
+
+.warszawa {
+    margin-left: -1.7%;
+    margin-top: 0%;
+}
+.london {
+    margin-left: -0.5%;
+    margin-top: 0%;
+}

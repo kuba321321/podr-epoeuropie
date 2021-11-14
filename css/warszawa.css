@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+    font-family: 'Bree Serif';
+    justify-content: center;
+}
+
+.opis {
+    color: white;
+    background-color: black;
+    height: 800px;
+    width: 600px;
+    text-align: center;
+}
+
+.zabytki {
+    color: white;
+    text-align: right;
+}
+
+.mapa {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.mapa:hover {
+    cursor:zoom-in;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
